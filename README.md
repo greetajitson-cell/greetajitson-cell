@@ -2,43 +2,36 @@
 
 🎓 3rd Year Computer Science Student  
 🤖 IBM Q2D Pearl Program Participant (AI/ML Track)  
-💻 Interested in Software Development and AI/ML  
+💻 Interested in AI/ML and Web Development
 
----
+----
+## About Me
 
-## 🚀 Project
+I'm a Computer Science student passionate about building real-world software projects and exploring Artificial Intelligence and Machine Learning.
+
+----
+## Featured Project
 
 ### ReadySetBook
-ReadySetBook is a web-based hotel room booking system designed to simplify the reservation process for hotels and users. It allows users to check room availability, make bookings, and manage reservations through a centralized platform.
+A web-based hotel room booking system that allows users to check room availability and make reservations through a centralized platform.
 
-**Key Features**
-- Real-time room availability tracking
-- Secure online booking system
-- Role-based login (Guest / Admin / Staff)
-- Booking management dashboard
-- Automated booking confirmation
+Tech Stack:
+Python | Django | HTML | CSS | JavaScript | MySQL
 
-**Tech Stack**
-- Python  
-- Django  
-- HTML, CSS, JavaScript  
-- MySQL  
+----
+## Skills
 
----
+Python  
+Django  
+HTML  
+CSS  
+JavaScript  
+MySQL  
+Git & GitHub
 
-🌱 Currently learning: AI, Machine Learning, and Web Development
+----
+## Currently Learning
 
-<!--
-**greetajitson-cell/greetajitson-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Artificial Intelligence  
+Machine Learning  
+Web Development
